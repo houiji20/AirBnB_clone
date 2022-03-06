@@ -1,4 +1,4 @@
-![65f4a1dd9c51265f49d0](https://user-images.githubusercontent.com/77971241/124041240-68512100-d9fe-11eb-986b-680fa72d7fd5.png)
+
 
 # Description of the project
 
@@ -11,11 +11,7 @@ This first step is very important because we will use what we build during this 
     * Update attributes of an object
     * Destroy an object
 
-# Installation
 
-To use our AirBnB clone console you need to:
-
-```git clone https:// github.com/youssefboussaid/AirBnB_clone.git```
 
 
 Use  the command interpreter hbnb in an interactive mode:
@@ -79,7 +75,3 @@ EOF  help  quit
 
 ```
 
-# Authors
-youssef boussaid https:// github.com/youssefboussaid
-
-khouzem boussaid https:// github.com/khouzi
