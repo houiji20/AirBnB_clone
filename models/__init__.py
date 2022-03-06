@@ -1,7 +1,9 @@
 #!/usr/bin/python3
-"""Models to represent everything from users to cities."""
+"""
+create a unique FileStorage instance for your application
+"""
+from models.engine.file_storage import FileStorage
 
-from .engine import FileStorage
 
 storage = FileStorage()
 storage.reload()
