@@ -1,6 +1,14 @@
 #!/usr/bin/python3
-from .base_model import BaseModel
+"""
+City module
+"""
+
+from models.base_model import BaseModel
+
 
 class City(BaseModel):
+    """
+    City class
+    """
     state_id = ""
     name = ""
