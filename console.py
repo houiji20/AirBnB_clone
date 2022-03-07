@@ -185,6 +185,5 @@ class HBNBCommand(cmd.Cmd):
             my_obj.updated_at = datetime.now()
             storage.save()
 
-
 if __name__ == '__main__':
     HBNBCommand().cmdloop()
