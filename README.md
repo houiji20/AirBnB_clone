@@ -6,12 +6,12 @@ This is the first step towards building our first full web application: the AirB
 This first step is very important because we will use what we build during this project with all other following projects, in it we are going to write a command interpreter to manage our AirBnB objects:
 
 
-        *  Create a new object(ex: a new User or a new Place)
-        *  Retrieve an object from a file, a database etc…
-        * Do operations on objects(count, compute stats, etc…)
-        * Update attributes of an object
-        * Destroy an object
- 
+       *  Create a new object(ex: a new User or a new Place)
+       *  Retrieve an object from a file, a database etc…
+       * Do operations on objects(count, compute stats, etc…)
+       * Update attributes of an object
+       * Destroy an object
+              
  
  
 
